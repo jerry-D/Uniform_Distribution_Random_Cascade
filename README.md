@@ -8,15 +8,16 @@ Image "A" shows a frontal shot.  Note the BB at the top.  The question of course
 Image "B" is from a closer angle with the sliding access panel partially opened so you can see the piezo-electric transducers mounted immediately above the row of large bin number lettering.
 Image "C" is from above looking down into the BB input funnel.
 
-https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_3_crop.png
+![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/DIV_FIGs_both.png)
+![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_3_crop.png)
 
-https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_4_angle_2_crop.png
+![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_4_angle_2_crop.png)
 
-https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_down_angle_crop.png
+![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_down_angle_crop.png)
 
 One of the challenges to demonstrating the quantum (vacuum state) Information Unfolder shown in the recently issued patent US 12,324,295 as FIG. 8, in particular, the upper half of it (820), including spiker circuits (840), is getting access to multi-million dollar equipment needed to assemble a working nanostructure from carbon nanotubes.  Below is an annotated cropping from patent US 12,324,295 showing FIG. 8, referred to therein as the vacuum state information unfolder.  Except for the spiker circuits, it is formed entirely of the bifurcated bidirectional transistor shown in FIG. 1 of the same patent.
 
-https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/DIV_FIGs_both.png
+![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/DIV_FIGs_both.png)
 
 Two divisional patent applications were filed in May to cover the inventions of FIG. 1 and FIG. 8.  The granted parent patent pertains to the bidirectional artificial neuron shown in FIG. 2.  Below are links to the claims for each of the divisionals. Beneath those to links is a link to the recently granted patent.
 
@@ -37,7 +38,7 @@ Once the master microcontroller has polled all 16 bin microcontrollers, it repor
 
 Here is a schematic of a proposed spiker circuit for the Uniform Distribution Random Cascade;
 
-https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Spiker_circuit.png
+![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Spiker_circuit.png)
 
 So, what's the point some might ask?  Answer:  because each run is statistically collected and reported via USB or Bluetooth to a computer/workstation, this probabilistic "information" can be used to not only train AI neural network models, but also used as real-time data for such AI models thus trained.  
 
