@@ -1,8 +1,8 @@
 ![](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/ThoughtChip_logo.png)
-# Uniform_Distribution_Random_Cascade
+# Uniform Distribution Random Cascade
 OpenSCAD model and .stl files for Uniform Distribution Random Cascade using true binary trees 
 
-(June 28, 2025) The images below show the prototype Uniform Distribution Random Cascade I've been working on the past couple weeks. 
+(June 28, 2025) The images below show the prototype Uniform Distribution Random Cascade I've been working on the past couple weeks. Note that the 3D renderings shown below were exported out of OpenSCAD in .stl format with a scale factor on all 3 axes of .02 and then imported by Blender to perform the shading.  The .stl files provided in this repository have no scaling.  To familiarize yourself with this design start with OpenSCAD using the source files in this repository.
 
 Image "A" shows a frontal shot.  Note the BB at the top.  The question of course is, assuming that the Uniform Distribution Random Cascade is level on the X-Y plane, which path will the BB take?  Furthermore, will the next BB that is dropped make the same choice as the preceding BB for all 4 stages?  Lastly, does the operator's intention in any way influence the outcome? 
 Image "B" is from a closer angle with the sliding access panel partially opened so you can see the piezo-electric transducers mounted immediately above the row of large bin number lettering.
