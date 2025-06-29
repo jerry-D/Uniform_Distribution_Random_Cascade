@@ -21,7 +21,9 @@ One of the challenges to demonstrating the quantum (vacuum state) Information Un
 Two divisional patent applications were filed in May to cover the inventions of FIG. 1 and FIG. 8.  The granted parent patent pertains to the bidirectional artificial neuron shown in FIG. 2.  Below are links to the claims for each of the divisionals. Beneath those to links is a link to the recently granted patent.
 
 https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/DIV1_claims_2nd_Amend.pdf
+
 https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/DIV2_claims_2nd_Amend.pdf
+
 https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/ThoughtChip_US12324295B.pdf
 
 To at least demonstrate the concept of the Information Unfolder of FIG. 8, just a couple weeks ago I got the idea to use something similar to the Galton board or Random Mechanical Cascade (RMC) used by Princeton's Engineering Anomalies Research Lab some years back.  The main issue I had with using the Galton board or RMC is the fact that its distributions are Bell curve distribution, in that the Information Unfolder of FIG. 8 (820) is Uniform (i.e., flat) distribution.
