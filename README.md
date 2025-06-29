@@ -8,7 +8,6 @@ Image "A" shows a frontal shot.  Note the BB at the top.  The question of course
 Image "B" is from a closer angle with the sliding access panel partially opened so you can see the piezo-electric transducers mounted immediately above the row of large bin number lettering.
 Image "C" is from above looking down into the BB input funnel.
 
-![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/DIV_FIGs_both.png)
 ![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_3_crop.png)
 
 ![](https://github.com/jerry-D/Uniform_Distribution_Random_Cascade/blob/main/Blend_composite_4_angle_2_crop.png)
